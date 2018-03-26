@@ -33,3 +33,18 @@ Granate
 - application launcher
 - OSGI Framework where bundling is done
 - provides logging services 
+
+---
+
+OSGI Framework
+- modular 
+- titly coupled and dynamicaly loadable classes 
+
+Felix
+- open source implementation of OSGI speification
+- dynamic run time environment
+
+---
+
+
+
