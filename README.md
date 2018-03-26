@@ -40,11 +40,38 @@ OSGI Framework
 - modular 
 - titly coupled and dynamicaly loadable classes 
 
+---
+
 Felix
 - open source implementation of OSGI speification
 - dynamic run time environment
 
 ---
+
+JCR(Java Content Repository)
+- database supports structured and unstructured data 
+- html css javascript images.. are stored in JCR object database
+- name spaces example(jsr:title)
+
+---
+
+Apache Sling
+- based on Rest principle
+- sling every thing is a resource
+- 
+
+---
+
+namespaces
+
+**jcr:** for basic data storage
+**nt:** foundation node types  example(nt:file ,nt:folder,nt:unstructured) nt->nodetype
+**rep:** repository internals
+**cq:** common aem name spaces example(cq:Dialog,cq;Page)
+
+---
+
+
 
 
 
