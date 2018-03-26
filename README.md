@@ -64,10 +64,10 @@ Apache Sling
 
 namespaces
 
-**jcr:** for basic data storage
-**nt:** foundation node types  example(nt:file ,nt:folder,nt:unstructured) nt->nodetype
-**rep:** repository internals
-**cq:** common aem name spaces example(cq:Dialog,cq;Page)
+- **jcr:** for basic data storage
+- **nt:** foundation node types  example(nt:file ,nt:folder,nt:unstructured) nt->nodetype
+- **rep:** repository internals
+- **cq:** common aem name spaces example(cq:Dialog,cq;Page)
 
 ---
 
