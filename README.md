@@ -97,3 +97,8 @@ importent
 - templeate allowed path-> ```/content(/.*)?``` which tells it to create page anyplace in content folder
 ---
 
+links
+- http://localhost:4502/libs/granite/ui/content/dumplibs.html (what all are using clientlibs (css and js) )
+- to load  page without cq,aem markup remove editor.html and add ``` ?wcmmode=disabled ``` at the end (to view final version) 
+---
+
