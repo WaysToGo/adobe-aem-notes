@@ -18,14 +18,7 @@ why AEM?
 
 ---
 
-terminology
-- sling:resourceType->to search rendering script(html or jsp pages)
-- sling:resourceSuperType->
 
----
-importent
-- templeate allowed path-> ```/content(/.*)?``` to allow content from content folder
----
 Infrastructure
 - infrastructure level AEM has web-application server
 - standalone mode uses integrated server jetty-web-server
@@ -95,5 +88,12 @@ notes
 
 ---
 
+terminology
+- sling:resourceType->to search rendering script(html or jsp pages)
+- sling:resourceSuperType->
 
+---
+importent
+- templeate allowed path-> ```/content(/.*)?``` to allow content from content folder
+---
 
