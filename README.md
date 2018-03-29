@@ -91,6 +91,7 @@ notes
 terminology
 - sling:resourceType->to search rendering script(html or jsp pages)
 - sling:resourceSuperType->
+- cq:design_dialog ->is used to show data optionally (one data is added to the component it will reflect in all pages)
 
 ---
 importent
