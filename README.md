@@ -71,6 +71,19 @@ namespaces
 
 ---
 
+notes
+- aem is built on database called JCR 
+- which has two things nodes and properties 
+- nodes->provides structure in JCR
+- properties->store data which has key and value
+
+---
+
+folder structure
+- conf->contains all configurations for site (dynamic content/policy)
+- etc->stores content related to utilities and tools
+
+---
 
 
 
