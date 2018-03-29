@@ -94,6 +94,6 @@ terminology
 
 ---
 importent
-- templeate allowed path-> ```/content(/.*)?``` to allow content from content folder
+- templeate allowed path-> ```/content(/.*)?``` which tells it to create page anyplace in content folder
 ---
 
