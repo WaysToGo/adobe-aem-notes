@@ -18,6 +18,14 @@ why AEM?
 
 ---
 
+terminology
+- sling:resourceType->to search rendering script(html or jsp pages)
+- sling:resourceSuperType->
+
+---
+importent
+- templeate allowed path-> ```/content(/.*)?``` to allow content from content folder
+---
 Infrastructure
 - infrastructure level AEM has web-application server
 - standalone mode uses integrated server jetty-web-server
@@ -71,6 +79,14 @@ namespaces
 
 ---
 
+
+
+folder structure
+- conf->contains all configurations for site (dynamic content/policy)
+- etc->stores content related to utilities and tools
+- home->related groups and users
+
+---
 notes
 - aem is built on database called JCR 
 - which has two things nodes and properties 
@@ -78,13 +94,6 @@ notes
 - properties->store data which has key and value
 
 ---
-
-folder structure
-- conf->contains all configurations for site (dynamic content/policy)
-- etc->stores content related to utilities and tools
-
----
-
 
 
 
