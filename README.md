@@ -1,4 +1,4 @@
-# adobe-aem-notes
+# Adobe-AEM-Notes
 
 what is AEM?
 
@@ -33,13 +33,13 @@ Granate
 - AEM is build up on granate
 - application launcher
 - OSGI Framework where bundling is done
-- provides logging services 
+- provides logging services
 
 ---
 
 OSGI Framework
-- modular 
-- titly coupled and dynamicaly loadable classes 
+- modular
+- titly coupled and dynamicaly loadable classes
 
 ---
 
@@ -50,7 +50,7 @@ Felix
 ---
 
 JCR(Java Content Repository)
-- database supports structured and unstructured data 
+- database supports structured and unstructured data
 - html css javascript images.. are stored in JCR object database
 - name spaces example(jsr:title)
 
@@ -59,7 +59,7 @@ JCR(Java Content Repository)
 Apache Sling
 - based on Rest principle
 - sling every thing is a resource
-- 
+-
 
 ---
 
@@ -81,8 +81,8 @@ folder structure
 
 ---
 notes
-- aem is built on database called JCR 
-- which has two things nodes and properties 
+- aem is built on database called JCR
+- which has two things nodes and properties
 - nodes->provides structure in JCR
 - properties->store data which has key and value
 
@@ -100,6 +100,11 @@ importent
 
 links
 - http://localhost:4502/libs/granite/ui/content/dumplibs.html (what all are using clientlibs (css and js) )
-- to load  page without cq,aem markup remove editor.html and add ``` ?wcmmode=disabled ``` at the end (to view final version) 
+- to load  page without cq,aem markup remove editor.html and add ``` ?wcmmode=disabled ``` at the end (to view final version)
 ---
+
+##  Jcr
+
+//path.tidy.infinity.json path, which tells Sling to return a formatted JSON
+:point_right::mag_right:[reference](https://dzone.com/articles/java-content-repository-best)
 
